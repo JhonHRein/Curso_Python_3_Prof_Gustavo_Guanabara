@@ -1,7 +1,7 @@
 # 🐍 Curso de Python 3 - Prof. Gustavo Guanabara
 #     CursoemVideo
-
-Repositório criado para armazenar todos os exercícios feitos durante o curso de **Python** do Professor **Gustavo Guanabara**.
+-------------------------------------------------------------------------------
+## Repositório criado para armazenar todos os exercícios feitos durante o curso de **Python** do Professor **Gustavo Guanabara**.
 
 ## 🎯 Objetivo
 Praticar lógica de programação e desenvolver uma base sólida em Python.
@@ -16,8 +16,9 @@ Os arquivos foram criados no **VS Code**, com Python **3.13** instalado.
 Cada exercício é um arquivo `.py` independente.
 
 ## 📅 Progresso
-Estudo autodidata iniciado em **abril/2025**.  
-Atualizando aos poucos, conforme avanço nas aulas.
+Estudo autodidata iniciado em **Abril/2025**.
+Finalizado: **Setembro/2025**.
+Atualizando os arquivos aos poucos.
 
 ---
 ✉️ *Autor: (Jhon Herbert Rein)
