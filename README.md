@@ -1,5 +1,5 @@
 # 🐍 Curso de Python 3 - Prof. Gustavo Guanabara
-#     CursoemVideo
+#     Curso Em Video
 -------------------------------------------------------------------------------
 ## Repositório criado para armazenar todos os exercícios feitos durante o curso de **Python** do Professor **Gustavo Guanabara**.
 
