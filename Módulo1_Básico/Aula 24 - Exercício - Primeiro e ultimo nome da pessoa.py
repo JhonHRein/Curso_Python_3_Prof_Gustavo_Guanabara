@@ -1,0 +1,8 @@
+print()
+print(" Faça um programa que leia o nome completo de uma pessoa,\n mostrando em seguida o primeiro e o último nome separadamente.")
+print()
+nome = str(input("Digite seu nome completo:")).strip()
+lista = nome.split()
+print("Analisando seu Nome...")
+print()
+print("Seu primeiro nome é: {}, e o ultimo nome é: {}".format(lista[0], lista[-1])) #.format(nome[len(lista)-1]))
