@@ -1,0 +1,13 @@
+print()
+print(">>> Faça um programa que leia uma frase pelo teclado e mostre\nquantas vezes aparece a letra “A”,\nem que posição ela aparece a primeira vez\ne em que posição ela aparece a última vez.")
+print()
+frase = str("Agulhas furam todos os papeis").strip()
+print(frase)
+print()
+frase_lo = frase.lower()
+frase_co = frase_lo.count("a")
+frase_len = len(frase_lo)
+print("ANALISANDO FRASE...")
+print()
+print("Essa frase contem: {} caracteres.\nContem {} letas 'a'.\nPosição da primeira letra 'a': {}.\nPosição da ultima letra 'a': {}.".format(frase_len, frase_co, frase_lo.find("a"), frase_lo.rfind("a")))
+
